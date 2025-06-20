@@ -1,9 +1,9 @@
 const testImages = [
-  '/test-images/minecraft grass.png',
-  '/test-images/grass.png',
-  '/test-images/mud.png',
-  '/test-images/chrome_cat.png',
-  '/test-images/test texture.png'
+  '../test-images/minecraft grass.png',
+  '../test-images/grass.png',
+  '../test-images/mud.png',
+  '../test-images/chrome_cat.png',
+  '../test-images/test texture.png'
 ];
 
 export function setupImageLoader(onValidImage) {
